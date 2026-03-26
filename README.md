@@ -28,17 +28,17 @@ Settings I recommend:
  - Memory: 4–8 GB RAM
 - Storage: 30–50 GB
 
-### 4. Working / 'Display output is not active.' Error?
+### 4. Working / "Display output is not active." Error?
 <img width="787" height="631" alt="error_screen" src="https://github.com/user-attachments/assets/1d83bf0c-3ccc-4531-8a97-50075e11c6cf" />
 <img width="1285" height="840" alt="install_screen_3" src="https://github.com/user-attachments/assets/37af739d-9996-4daf-867c-75d7b618efd1" />
 
    Working -> go to step 6
    
-### 5. Fix 'Display output is not active.'
+### 5. Fix "Display output is not active."
 1. Stop VM
 2. Right Click -> Edit
-3. Go to 'Display' -> Choose 'Emulated Display Card' virtio-ramb
-4. Under 'Devices' Tab click 'New...' add 'Serial' -> Save
+3. Go to "Display" -> Choose "Emulated Display Card" virtio-ramb
+4. Under "Devices" Tab click "New..." add "Serial" -> Save
 5. Start install process via terminal windows
 6. Eject ISO when done.
 
@@ -61,8 +61,8 @@ version 2.12-9+kali1
 14. Reboot
 
 ### 4. First Boot & Basic Setup
-- Login: 'username' / 'password'
-- Update system: 'sudo apt update && sudo apt upgrade -y'
+- Login: "username" / "password"
+- Update system: "sudo apt update && sudo apt upgrade -y"
 
 ## Screenshots 
 <img width="1303" height="959" alt="utm_page_download" src="https://github.com/user-attachments/assets/c1fa7415-3a83-4267-b347-9c65911591db" />
