@@ -6,7 +6,7 @@
 ## Why This Setup?
 - Native ARM64 performance 
 - 100% free 
-- Perfect for blue-team practice (Nmap, Wireshark, Metasploit, Burp Suite, etc.)
+- Perfect for cybersecurity practice (Nmap, Wireshark, Metasploit, Burp Suite, etc.)
 
 ## Step-by-Step Installation Guide
 
