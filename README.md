@@ -80,9 +80,9 @@ version 2.12-9+kali1
 <img width="1282" height="834" alt="update_install_1" src="https://github.com/user-attachments/assets/3c97ee2e-1ce4-467e-898b-9f3211a14e14" />
 <img width="1283" height="842" alt="update_install_6" src="https://github.com/user-attachments/assets/7e3353f3-a613-4596-add5-b9d989bf4692" />
 
-## Usefull for
+## Useful for
 - Secure environment creation
 - SOC Analyst / penetration testing practice
 
 
-This repo show how I build modern cybersecurity environments.
+This repo shows how I built modern cybersecurity environments.
